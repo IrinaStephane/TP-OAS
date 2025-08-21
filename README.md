@@ -1,1 +1,1 @@
-# TD-OpenApiSpecification-STD24060
+# Documentation OpenAPI Specification - STD24060
